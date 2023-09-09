@@ -1,4 +1,4 @@
-- 👋 Olá, sou @soareex
+- 👋 Olá, sou @soares7dev_
 - 👀 Estou interessado em Python
 - 🌱 Atualmente estou aprendendo JavaScript
 - 💞️ Procuro colaborar em Pequenos Sistemas
